@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+.vscode/
+*.pt
+*.onnx
+runs/
+datasets/
+*.mp4
+*.avi
+*.mov
+.env
